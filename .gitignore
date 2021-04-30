@@ -34,3 +34,11 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/deployment.xml
+/.idea/hoa_listings_dashboard_b02.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
